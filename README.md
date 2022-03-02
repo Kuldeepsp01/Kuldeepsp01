@@ -2,6 +2,11 @@
 <h3 align="center">A passionate Software developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kuldeepsp01&label=Profile%20views&color=0e75b6&style=flat" alt="Kuldeepsp01" /> </p>
 
+<p>I am a Software Engineer currently working at Eplanet Softwares, Jaipur, India
+I holds a Master's degree in Computer Science.
+I enjoys writing code in Java/Android and currently learning and falling in love with Flutter
+Now, I feels like I owes something to this beautiful tech community and so is on journey to explore the whole new world of open source.</p>
+
 - :seedling: I’m currently learning **Flutter, Kotlin**
  
 <!-- - :male-technologist: All of my projects are available at [https://chanchal.host/](https://chanchal.host/) -->
