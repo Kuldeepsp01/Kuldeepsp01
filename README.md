@@ -8,7 +8,7 @@
  
 <!-- - :male-technologist: All of my projects are available at [https://chanchal.host/](https://chanchal.host/) -->
  
-- :speech_balloon: Ask me about **Java & Android**
+- :speech_balloon: Ask me about **Android & Flutter**
  
 - :mailbox: How to reach me **kuldeepsp01@gmail.com**
  
