@@ -1,7 +1,7 @@
 <h1 align="center">Hi :wave:, I'm Kuldeep Singh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kuldeepsp01&label=Profile%20views&color=0e75b6&style=flat" alt="Kuldeepsp01" /> </p>
-<p>I am a Software Engineer currently working at Eplanet Softwares, Jaipur, India. I hold a Master's degree in Computer Applications. I enjoy writing code in Java/Android and currently learning and falling in love with Flutter Now, I feel like I owe something to this beautiful tech community and so am on a journey to explore the whole new world of open source.</p>
+<p>I am a Software Engineer currently working at Dotsquares, Jaipur, India. I hold a Master's degree in Computer Applications. I enjoy writing code in Java/Android, Flutter and currently learning and falling in love with React Native Now, I feel like I owe something to this beautiful tech community and so am on a journey to explore the whole new world of open source.</p>
 <!-- -- :seedling: I’m currently learning **Flutter, Kotlin**-->
 
 <!-- - :male-technologist: All of my projects are available at [https://localhost/3000/](https://local.host/) -->
